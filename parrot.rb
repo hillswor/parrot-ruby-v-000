@@ -1,4 +1,3 @@
 def parrot(noise="Squawk!")
-  puts phrase
-  return phrase
+  puts noise
 end
